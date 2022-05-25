@@ -1,6 +1,6 @@
 # PRANA
 
-PRANA: A Pseudo-Value Regression Approach for Differential Network Analysis of Co-Expression Data //
+PRANA: A Pseudo-Value Regression Approach for Differential Network Analysis of Co-Expression Data <br />
 Submitted to *Bioinformatics* for consideration.
 
 ### Usage
