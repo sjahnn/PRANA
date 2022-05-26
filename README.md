@@ -21,5 +21,5 @@ Datta, S. and Datta, S. (2005). Empirical Bayes screening of many p-values with 
 
 
 ### Contact
-Please feel free to email me at sahn1@ufl.edu if you need any further information.
+Please feel free to email me at sahn1@ufl.edu if you need any further information or suggestions to improve our work.
 
