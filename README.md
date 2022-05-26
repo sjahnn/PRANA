@@ -10,7 +10,7 @@ This repository contains clinical and expression data, saved as **combinedCOPD_R
 
 * **TotalConnectivity.R** is to calculate the total connectivity of each gene. 
 * **EmpiricalBayes_Datta_2005.R** is to compute the adjusted p-values via empirical Bayes approach (Datta and Datta, 2005)
-* **PRANA_main.R** is the primary code to analyze the data. This will load the first two codes, so please download all three R codes to apply our method. The code is heavily annotated for the ease of implementation.
+* **PRANA_main.R** is the primary code to analyze the data. This will load the first two codes, so please download all three R codes to apply our method. The code is heavily annotated for ease of implementation.
 </br>
 
 ### References
