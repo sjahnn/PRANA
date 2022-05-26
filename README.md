@@ -14,9 +14,9 @@ This repository contains clinical and expression data, saved as **combinedCOPD_R
 </br>
 
 ### References
-Sakornsakolpat, P., Prokopenko, D., Lamontagne, M., and et al. (2019). Genetic landscape of chronic obstructive pulmonary disease identifies heterogeneous cell- type and phenotype associations. *Nature Genetics*, **51**(3), 494–505. </br></br>
-Wang, Z., Masoomi, A., Xu, Z., Boueiz, A., Lee, S., Zhao, T., Bowler, R., Cho, M., Silverman, E., Hersh, C., Dy, J., and Castaldi, P. (2021). Improved prediction of smoking status via isoform-aware RNA-seq deep learning models. *PLoS Computational Biology*, **17**(10). </br></br>
-Datta, S. and Datta, S. (2005). Empirical Bayes screening of many p-values with applications to microarray studies. *Bioinformatics*, **21**(9), 1987–1994.
+Sakornsakolpat, P., Prokopenko, D., Lamontagne, M., and et al. (2019). [Genetic landscape of chronic obstructive pulmonary disease identifies heterogeneous cell- type and phenotype associations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546635/). *Nature Genetics*, **51**(3), 494–505. </br></br>
+Wang, Z., Masoomi, A., Xu, Z., Boueiz, A., Lee, S., Zhao, T., Bowler, R., Cho, M., Silverman, E., Hersh, C., Dy, J., and Castaldi, P. (2021). [Improved prediction of smoking status via isoform-aware RNA-seq deep learning models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8530282/). *PLoS Computational Biology*, **17**(10). </br></br>
+Datta, S. and Datta, S. (2005). [Empirical Bayes screening of many p-values with applications to microarray studies](https://academic.oup.com/bioinformatics/article/21/9/1987/409148?login=true). *Bioinformatics*, **21**(9), 1987–1994.
 </br>
 
 
