@@ -6,7 +6,7 @@ Submitted to *Bioinformatics* for consideration.
 
 
 ### Usage
-Please download all three R codes from this repository. **combinedCOPD_RelatedGenesOnly.RDS** contains clinical and expression data. The full data is available from the Gene Expression Database with accession number GSE158699 (Wang *et al.*, 2021)
+Please download all three R codes to apply the PRANA.  This repository also contains clinical and expression data, saved as **combinedCOPD_RelatedGenesOnly.RDS**, which focus specifically for the COPD-related genes highlighted in . The full data is available from the Gene Expression Database with accession number GSE158699 (Wang *et al.*, 2021)
 
 * **TotalConnectivity.R** is to calculate the total connectivity of each gene. 
 * **EmpiricalBayes_Datta_2005.R** is to compute the adjusted p-values via empirical Bayes approach (Datta and Datta, 2005)
@@ -14,6 +14,7 @@ Please download all three R codes from this repository. **combinedCOPD_RelatedGe
 </br>
 
 ### References
+Sakornsakolpat, P., Prokopenko, D., Lamontagne, M., and et al. (2019). Genetic landscape of chronic obstructive pulmonary disease identifies heterogeneous cell- type and phenotype associations. *Nature Genetics*, **51**(3), 494–505. </br></br>
 Wang, Z., Masoomi, A., Xu, Z., Boueiz, A., Lee, S., Zhao, T., Bowler, R., Cho, M., Silverman, E., Hersh, C., Dy, J., and Castaldi, P. (2021). Improved prediction of smoking status via isoform-aware RNA-seq deep learning models. *PLoS Computational Biology*, **17**(10). </br></br>
 Datta, S. and Datta, S. (2005). Empirical Bayes screening of many p-values with applications to microarray studies. *Bioinformatics*, **21**(9), 1987–1994.
 </br>
