@@ -6,10 +6,10 @@ Submitted for consideration for publication in *Bioinformatics*.
 
 
 ### Usage
-This repository contains clinical and expression data, saved as **combinedCOPD_RelatedGenesOnly.RDS**. Of note, this looks at 28 COPD-related genes that were highlighted in a recent genome-wide association study (Sakornsakolpat *et al.*, 2019). The full data is available from the Gene Expression Database with accession number [GSE158699](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158699)(Wang *et al.*, 2021).
+This repository contains clinical and expression data, saved as **combinedCOPD_RelatedGenesOnly.RDS**. Of note, this looks at 28 COPD-related genes that were highlighted in a recent genome-wide association study (Sakornsakolpat *et al.*, 2019). The full data is available from the Gene Expression Database with accession number [GSE158699](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158699) (Wang *et al.*, 2021).
 
 * **TotalConnectivity.R** is to calculate the total connectivity of each gene. 
-* **EmpiricalBayes_Datta_2005.R** is to compute the adjusted p-values via empirical Bayes approach (Datta and Datta, 2005)
+* **EmpiricalBayes_Datta_2005.R** is to compute the adjusted p-values via empirical Bayes approach (Datta and Datta, 2005).
 * **PRANA_main.R** is the primary code to analyze the data. This will load the first two codes, so please download all three R codes to apply our method. The code is heavily annotated for ease of implementation.
 </br>
 
@@ -21,5 +21,5 @@ Datta, S. and Datta, S. (2005). [Empirical Bayes screening of many p-values with
 
 
 ### Contact
-Please feel free to email me (Seungjun Ahn) at sahn1@ufl.edu if you need any further information or suggestions to improve our work.
+If you encounter a bug or any suggestions to improve our work, please feel free to email me (Seungjun Ahn) at sahn1@ufl.edu.
 
