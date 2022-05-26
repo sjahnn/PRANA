@@ -6,7 +6,7 @@ Submitted for consideration for publication in *Bioinformatics*.
 
 
 ### Usage
-This repository contains clinical and expression data, saved as **combinedCOPD_RelatedGenesOnly.RDS**. Of note, this looks at 28 COPD-related genes that were highlighted in a recent genome-wide association study (Sakornsakolpat *et al.*, 2019). The full data is available from the Gene Expression Database with accession number GSE158699 (Wang *et al.*, 2021).
+This repository contains clinical and expression data, saved as **combinedCOPD_RelatedGenesOnly.RDS**. Of note, this looks at 28 COPD-related genes that were highlighted in a recent genome-wide association study (Sakornsakolpat *et al.*, 2019). The full data is available from the Gene Expression Database with accession number [GSE158699](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158699)(Wang *et al.*, 2021).
 
 * **TotalConnectivity.R** is to calculate the total connectivity of each gene. 
 * **EmpiricalBayes_Datta_2005.R** is to compute the adjusted p-values via empirical Bayes approach (Datta and Datta, 2005)
