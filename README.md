@@ -13,6 +13,8 @@ This repository contains clinical and expression data, saved as **combinedCOPD_R
 * **PRANA_main.R** is the primary code to analyze the data. This will load the first two codes, so please download all three R codes to apply our method. The code is heavily annotated for ease of implementation.
 </br>
 
+The user manual for PRANA is also provided, titled with **PRANA_UserManual.pdf**.
+
 ### References
 Sakornsakolpat, P., Prokopenko, D., Lamontagne, M., and et al. (2019). [Genetic landscape of chronic obstructive pulmonary disease identifies heterogeneous cell- type and phenotype associations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546635/). *Nature Genetics*, **51**(3), 494–505. </br></br>
 Wang, Z., Masoomi, A., Xu, Z., Boueiz, A., Lee, S., Zhao, T., Bowler, R., Cho, M., Silverman, E., Hersh, C., Dy, J., and Castaldi, P. (2021). [Improved prediction of smoking status via isoform-aware RNA-seq deep learning models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8530282/). *PLoS Computational Biology*, **17**(10). </br></br>
