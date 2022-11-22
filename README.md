@@ -13,7 +13,9 @@ This repository contains clinical and expression data, saved as **combinedCOPD_R
 * **PRANA_main.R** is the primary code to analyze the data. This will load the first two codes, so please download all three R codes to apply our method. The code is heavily annotated for ease of implementation.
 </br>
 
-The user manual for PRANA is also provided, titled with **PRANA_UserManual.pdf**.
+```diff
++ The user manual for PRANA is also provided, titled with **PRANA_UserManual.pdf**.
+```
 
 ### References
 Sakornsakolpat, P., Prokopenko, D., Lamontagne, M., and et al. (2019). [Genetic landscape of chronic obstructive pulmonary disease identifies heterogeneous cell- type and phenotype associations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546635/). *Nature Genetics*, **51**(3), 494–505. </br></br>
