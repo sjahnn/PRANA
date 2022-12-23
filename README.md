@@ -1,7 +1,7 @@
 # PRANA
 
 PRANA: A Pseudo-Value Regression Approach for Differential Network Analysis of Co-Expression Data <br />
-Submitted for consideration for publication in *BMC Bioinformatics*.
+This work has been accepted to *BMC Bioinformatics*.
 </br>
 
 
