@@ -1,8 +1,9 @@
 # PRANA
 
 PRANA: A Pseudo-Value Regression Approach for Differential Network Analysis of Co-Expression Data <br />
-This work has been accepted to *BMC Bioinformatics*.
+The methodology work has been accepted to *BMC Bioinformatics*. 
 </br>
+As of Spring 2023, the PRANA R package is available through CRAN: https://cran.r-project.org/web/packages/PRANA/index.html. The software paper has been submitted for consideration for publication in *BMC Genomics*. </br>
 
 
 ### Usage
@@ -23,5 +24,5 @@ Datta, S. and Datta, S. (2005). [Empirical Bayes screening of many p-values with
 
 
 ### Contact
-If you encounter a bug or any suggestions to improve our work, please feel free to email me (Seungjun Ahn) at sahn1@ufl.edu.
+If you encounter a bug or any suggestions to improve our work, please feel free to email me (Seungjun Ahn) at seungjun.ahn@mountsinai.org.
 
